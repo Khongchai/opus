@@ -91,3 +91,5 @@ src/x64
 .vscode/
 CMakeSettings.json
 a.wasm
+opus.wasm
+opus.js
