@@ -90,3 +90,4 @@ src/x64
 .vs/
 .vscode/
 CMakeSettings.json
+a.wasm
